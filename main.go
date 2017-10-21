@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	api := slack.New("xoxb-255678085104-xWWKlbAK3V7A8wr7MFQQwMjO")
+	api := slack.New("")
 
 
 
